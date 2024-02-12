@@ -2,14 +2,13 @@
 
 ## Overview
 
-This repository, authored by Vaclovas Kisielius, is designed for third-year students of the Faculty of Mechanics and Mathematics at Moscow State University (MSU) as part of their curriculum in statistical practicum using Python. The course aims to introduce students to practical aspects of statistical analysis, data manipulation, and visualization, leveraging Python's powerful libraries and tools.
+This repository is designed for third-year students of the Faculty of Mechanics and Mathematics at Moscow State University (MSU) as part of their curriculum in statistical practicum using Python. The course aims to introduce students to practical aspects of statistical analysis, data manipulation, and visualization, leveraging Python's powerful libraries and tools.
 
 ## Course Structure
 
 1. **Introduction to Python**
    - Syntax Basics
    - Data Types
-   - Control Structures
    - Functions
    - Classes
 
@@ -20,7 +19,7 @@ This repository, authored by Vaclovas Kisielius, is designed for third-year stud
 3. **Random Number Generation and Simulation**
    - Libraries: scipy and numpy
 
-4. **pandas Library and Exploratory Data Analysis (EDA)**
+4. **Pandas Library and Exploratory Data Analysis (EDA)**
    - Working with tabular data
    - Computing basic statistics: mean, variance, median
    - Handling outliers, dealing with missing values
@@ -53,4 +52,7 @@ This repository, authored by Vaclovas Kisielius, is designed for third-year stud
 
 ## Getting Started
 
-To get started with the course, clone this repository to your local machine using `git clone`.
+To get started with the course, clone this repository to your local machine using 
+```bash
+git clone https://github.com/V-Kisielius/StatPrak24
+```
