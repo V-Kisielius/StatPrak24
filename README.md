@@ -53,7 +53,4 @@ This repository, authored by Vaclovas Kisielius, is designed for third-year stud
 
 ## Getting Started
 
-To get started with the course, clone this repository to your local machine using:
-
-```bash
-git clone <repository-url>
+To get started with the course, clone this repository to your local machine using `git clone`.
